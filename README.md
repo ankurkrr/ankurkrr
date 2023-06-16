@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankurkrr&label=Profile%20views&color=0e75b6&style=flat" alt="ankurkrr" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Computer Vision**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning and Computer Vision**
 
 - 💬 Ask me about **Python, Excel, MySql**
 
