@@ -1,13 +1,13 @@
 ![MasterHead](https://hackernoon.com/hn-images/1*ck6cRbbe3uaelEG2JPsIMw.gif)
 <h1 align="center">Hi 👋, I'm ANKUR KUMAR</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankurkrr&label=Profile%20views&color=0e75b6&style=flat" alt="ankurkrr" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning and Computer Vision**
 
-- 💬 Ask me about **Python, Excel, MySql**
+- 💬 Ask me about **Data Analysis, Machine Learning**
 
 - 📫 How to reach me **11.ankurkr@gmail.com**
 
