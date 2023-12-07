@@ -9,9 +9,7 @@
 
 - 💬 Ask me about **Data Analysis, Machine Learning**
 
-- 📫 How to reach me **11.ankurkr@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zpLIrdGpF2YE6-X5MIhLBgnml3Qb9tnz/view?usp=sharing](https://drive.google.com/file/d/1zpLIrdGpF2YE6-X5MIhLBgnml3Qb9tnz/view?usp=sharing)
+- 📫 How to reach me **ai.ankurkr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
