@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning and Computer Vision**
 
-- 💬 Ask me about **Data Analysis, Machine Learning**
+- 💬 Ask me about **Data Analysis, Data Science, Machine Learning, Deep Learning**
 
 - 📫 How to reach me **ai.ankurkr@gmail.com**
 
