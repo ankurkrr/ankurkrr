@@ -97,9 +97,9 @@
 
 ## GITHUB STATS 💯
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihirkudale&show_icons=true&locale=en&layout=compact" alt="Top Languages">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankurkrr&show_icons=true&locale=en&layout=compact" alt="Top Languages">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mihirkudale&show_icons=true&locale=en" alt="GitHub Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankurkrr&show_icons=true&locale=en" alt="GitHub Stats">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankurkrr)](https://github.com/DenverCoder1/github-readme-streak-stats)
   
