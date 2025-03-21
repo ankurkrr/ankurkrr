@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankurkrr&label=Profile%20views&color=0e75b6&style=flat" alt="ankurkrr" /> </p>
 
-- 🌱 Workin on **Machine Learning, Deep Learning and Computer Vision**
+- 🌱 Workin on **Machine Learning, Deep Learning and Computer Vision, LLM, GEN AI**
 
 - 💬 Ask me about **Data Analysis, Data Science, Machine Learning, Deep Learning**
 
